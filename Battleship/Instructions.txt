@@ -1,0 +1,4 @@
+
+To start open the file titled "PLAY" and then click the run icon to begin playing in Safari
+
+It may ask you to confirm what file you are opening on first launch. Just click open as it should already have the proper file selected.
